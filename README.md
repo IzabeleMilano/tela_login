@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="img/tela_login.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src="img/tela_login.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
